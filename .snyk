@@ -18,3 +18,22 @@ patch:
   'npm:ms:20151024':
     - humanize-ms > ms:
         patched: '2021-10-28T13:42:53.770Z'
+  SNYK-JS-LODASH-567746:
+    - tap > nyc > istanbul-lib-instrument > babel-types > lodash:
+        patched: '2022-09-29T02:35:45.569Z'
+    - tap > nyc > istanbul-lib-instrument > babel-generator > lodash:
+        patched: '2022-09-29T02:35:45.569Z'
+    - tap > nyc > istanbul-lib-instrument > babel-traverse > lodash:
+        patched: '2022-09-29T02:35:45.569Z'
+    - tap > nyc > istanbul-lib-instrument > babel-template > lodash:
+        patched: '2022-09-29T02:35:45.569Z'
+    - tap > nyc > istanbul-lib-instrument > babel-generator > babel-types > lodash:
+        patched: '2022-09-29T02:35:45.569Z'
+    - tap > nyc > istanbul-lib-instrument > babel-traverse > babel-types > lodash:
+        patched: '2022-09-29T02:35:45.569Z'
+    - tap > nyc > istanbul-lib-instrument > babel-template > babel-types > lodash:
+        patched: '2022-09-29T02:35:45.569Z'
+    - tap > nyc > istanbul-lib-instrument > babel-template > babel-traverse > lodash:
+        patched: '2022-09-29T02:35:45.569Z'
+    - tap > nyc > istanbul-lib-instrument > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2022-09-29T02:35:45.569Z'
